@@ -1,0 +1,3 @@
+include ':videokit'
+include ':app'
+rootProject.name = "Demo For Ffmpeg"
